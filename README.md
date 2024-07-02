@@ -20,8 +20,8 @@ Streamlit es una biblioteca de Python que permite crear aplicaciones web interac
 #### Windows
 
 ```bash
-git clone https://gitlab.catedras.linti.unlp.edu.ar/python2024/code/grupo10
-cd grupo10
+git clone https://github.com/fabioo66/Pytrivia
+cd Pytrivia
 
 # Crear el entorno virtual
 python3.11 -m venv venv
@@ -36,8 +36,8 @@ pip install -r requirements.txt
 #### Linux
 
 ```bash
-git clone https://gitlab.catedras.linti.unlp.edu.ar/python2024/code/grupo10
-cd grupo10
+git clone https://github.com/fabioo66/Pytrivia
+cd Pytrivia
 python3.11 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
